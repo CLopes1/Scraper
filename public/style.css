@@ -1,0 +1,9 @@
+.panel-title {
+    font-size: 25px;
+   
+}
+
+.btn-sm, .btn-group-sm>.btn {
+    margin-top: -3%;
+
+}
